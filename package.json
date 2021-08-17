@@ -1,0 +1,23 @@
+{
+  "name": "chrome-extensions-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chrome-extensions-util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryut2208/ChromeExtensionsUtil.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryut2208/ChromeExtensionsUtil/issues"
+  },
+  "homepage": "https://github.com/ryut2208/ChromeExtensionsUtil#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "typescript": "^4.3.5"
+  }
+}
